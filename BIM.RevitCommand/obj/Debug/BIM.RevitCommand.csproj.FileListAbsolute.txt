@@ -1,0 +1,13 @@
+C:\Users\61861421\Desktop\Dev\Github\BIM.RevitCommand\BIM.RevitCommand\bin\Debug\BIM.RevitCommand.dll
+C:\Users\61861421\Desktop\Dev\Github\BIM.RevitCommand\BIM.RevitCommand\bin\Debug\BIM.RevitCommand.pdb
+C:\Users\61861421\Desktop\Dev\Github\BIM.RevitCommand\BIM.RevitCommand\obj\Debug\BIM.RevitCommand.csproj.AssemblyReference.cache
+C:\Users\61861421\Desktop\Dev\Github\BIM.RevitCommand\BIM.RevitCommand\obj\Debug\Formwork\MVVM\View\MainView.g.cs
+C:\Users\61861421\Desktop\Dev\Github\BIM.RevitCommand\BIM.RevitCommand\obj\Debug\BIM.RevitCommand_MarkupCompile.cache
+C:\Users\61861421\Desktop\Dev\Github\BIM.RevitCommand\BIM.RevitCommand\obj\Debug\BIM.RevitCommand_MarkupCompile.lref
+C:\Users\61861421\Desktop\Dev\Github\BIM.RevitCommand\BIM.RevitCommand\obj\Debug\Formwork\MVVM\View\MainView.baml
+C:\Users\61861421\Desktop\Dev\Github\BIM.RevitCommand\BIM.RevitCommand\obj\Debug\BIM.RevitCommand.g.resources
+C:\Users\61861421\Desktop\Dev\Github\BIM.RevitCommand\BIM.RevitCommand\obj\Debug\BIM.RevitCommand.Properties.Images.resources
+C:\Users\61861421\Desktop\Dev\Github\BIM.RevitCommand\BIM.RevitCommand\obj\Debug\BIM.RevitCommand.csproj.GenerateResource.cache
+C:\Users\61861421\Desktop\Dev\Github\BIM.RevitCommand\BIM.RevitCommand\obj\Debug\BIM.RevitCommand.csproj.CoreCompileInputs.cache
+C:\Users\61861421\Desktop\Dev\Github\BIM.RevitCommand\BIM.RevitCommand\obj\Debug\BIM.RevitCommand.dll
+C:\Users\61861421\Desktop\Dev\Github\BIM.RevitCommand\BIM.RevitCommand\obj\Debug\BIM.RevitCommand.pdb
